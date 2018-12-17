@@ -226,7 +226,7 @@ header .mobile {
 .feature {
   flex: 1;
   padding: 2rem;
-  margin: 0px 1.25rem;
+  margin: 0 1.25rem;
   background-color: white;
 }
 
@@ -276,6 +276,9 @@ header .mobile {
   .feature {
     margin: 0;
     padding: 1.25rem 1rem 0 1rem;
+  }
+  .feature .content {
+    padding: 1.25rem 0 1.875rem 0;
   }
 }
 
